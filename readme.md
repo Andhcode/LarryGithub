@@ -2,4 +2,5 @@
 
 Esta serie de libros cuenta la historia de las que hay pocas.
 
-**Andrés Jácome**, git lover
+
+**Andrés Jácome**, git & Larry Plotter lover
